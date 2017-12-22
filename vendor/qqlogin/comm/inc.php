@@ -1,0 +1,2 @@
+<?php die('forbidden'); ?>
+{"appid":"101353581","appkey":"aaaba0d0d007fabe1f3e227f639d3e42","callback":"http://yii2.cntxb.com/user/qqcallback","scope":"get_user_info","errorReport":true,"storageType":"file","host":"localhost","user":"root","password":"root","database":"test"}
